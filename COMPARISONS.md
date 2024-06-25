@@ -92,7 +92,7 @@ func main() {
 # Equivalent of `nodemon` in Go
 
 ```bash
-go install github.com/cosmtrek/air@latest
+go install github.com/air-verse/air@latest
 ```
 
 -   `air` is a live reload tool for Go applications.
